@@ -1,0 +1,22 @@
+{
+  "name": "nodechat",
+  "version": "1.0.0",
+  "description": "Chat application in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namangupta01/nodeChat.git"
+  },
+  "author": "namangupta01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namangupta01/nodeChat/issues"
+  },
+  "homepage": "https://github.com/namangupta01/nodeChat#readme",
+  "dependencies": {
+    "socket.io": "^2.0.4"
+  }
+}
